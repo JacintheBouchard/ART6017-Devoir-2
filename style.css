@@ -7,8 +7,14 @@ body {
     margin: 10vw;
     margin-top: 5vw;
     background-color: lightgray;
-    border-radius: 5px;
-    
+    border-radius: 8px;
+}
+
+.contient-titres {
+    background-color: lightgray;
+    margin-right: 15vw;
+    margin-left: 15vw;
+    border-radius: 8px;
 }
 
 .Titre {
